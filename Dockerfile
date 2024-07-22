@@ -1,1 +1,1 @@
-FROM qdrant/qdrant
+FROM qdrant/qdrant:latest
